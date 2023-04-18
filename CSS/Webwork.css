@@ -1,0 +1,32 @@
+body {
+   background-color: beige;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+}
+h2 {
+    text-align: center;
+    font-family: serif;
+}
+p {
+    border: rebeccapurple solid 5px;
+    padding: 20px;
+    margin: 40px;
+    display: block;
+}
+h3,h4,h5,h6 {
+    background-color: blueviolet;
+    padding: 10px;
+    display: inline-block;
+    font-size:150% ;
+    color: blanchedalmond;
+}
+a:hover,a:visited,a:link,a:active {
+    background-color: aliceblue;
+    padding: 15px;
+    text-decoration: none;
+    display: inline;
+    color:black
+}
